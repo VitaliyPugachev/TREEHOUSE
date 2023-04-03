@@ -247,31 +247,31 @@ header {
     }
 }
 
-@media (max-width:768px) {
-    .head__main {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        gap: 30px;
-    }
-    .relax {
-        flex-direction: column;
-        align-items: center;
-        .setting__block {
-            width: 100%;
-        }
-        .relax__main {
-            height: 900px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-        }
-    }
-    .latest__projects {
-        background-color: rgb(0, 0, 0, 0.2);
-        background-blend-mode: multiply;
-        margin-top: 522px;
-    }
-}
+// @media (max-width:768px) {
+//     .head__main {
+//         display: flex;
+//         flex-direction: column;
+//         justify-content: center;
+//         align-items: center;
+//         gap: 30px;
+//     }
+//     .relax {
+//         flex-direction: column;
+//         align-items: center;
+//         .setting__block {
+//             width: 100%;
+//         }
+//         .relax__main {
+//             height: 900px;
+//             display: flex;
+//             flex-direction: column;
+//             justify-content: center;
+//             align-items: center;
+//         }
+//     }
+//     .latest__projects {
+//         background-color: rgb(0, 0, 0, 0.2);
+//         background-blend-mode: multiply;
+//         margin-top: 522px;
+//     }
+// }
